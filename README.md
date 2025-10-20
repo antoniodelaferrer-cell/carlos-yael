@@ -1,6 +1,7 @@
-<!-- Puedes reemplazar este enlace con una imagen o banner personalizado -->
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/bad0da41-3a59-448b-84f3-5baf2dd5a06f" /><!-- Puedes reemplazar este enlace con una imagen o banner personalizado -->
 <p align="center">
-  <img src="https://i.imgur.com/dM7Thhn.png" alt="Banner QA Engineer" width="800"/>
+  <img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/40b58a3a-c701-4a18-a429-ff4f4468334d" />
+" alt="Banner QA Engineer" width="800"/>
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Carlos Yael Tapia Herrera</h1>
